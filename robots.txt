@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://klfua.github.io/WmV/sitemap.WmV.gz
